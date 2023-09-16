@@ -25,6 +25,22 @@ Link to privacy policy of third party service providers used by the app
 - Firebase Analytics
 - Crashlytics
 
+### In-App Purchases
+
+Timesheet History is primarily an Ad Supported app, provided by Forutan Software at no cost. However, we offer in-app purchases to enhance your experience and unlock premium features. These in-app purchases may include, but are not limited to, premium subscriptions, additional content, or ad removal options.
+
+### Payment Information
+
+When you make an in-app purchase, you may be required to provide payment information, such as credit card details or payment account information. This information is securely handled by the respective app stores (e.g., Apple App Store, Google Play Store) and is subject to their terms and policies. Forutan Software does not collect or store your payment information.
+
+### Refunds
+
+Refund requests for in-app purchases are subject to the policies of the app store from which you made the purchase (e.g., Apple App Store, Google Play Store). Forutan Software is unable to process refunds directly.
+
+### Changes to In-App Purchases
+
+Forutan Software reserves the right to modify, discontinue, or add new in-app purchases and pricing at any time. Such changes will be reflected in the app store listings and may require you to accept new terms before making additional purchases.
+
 ### Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
