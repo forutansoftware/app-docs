@@ -1,0 +1,15 @@
+site_name: Forutan Software
+site_url: https://app.forutan.com/
+nav:
+  - Home: index.md
+  - Timesheet History: '!include ./timesheet-history/mkdocs.yml'
+theme:
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+  name: material
+  favicon: images/favicon.png  
+plugins:
+  - search
+  - monorepo
+  # - awesome-pages
