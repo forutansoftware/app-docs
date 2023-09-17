@@ -2,7 +2,7 @@ site_name: Timesheet History
 site_url: https://app.forutan.com/timesheet-history
 
 nav:
-  - Home: "index.md"
-  - Help: "help.md"
+  - Main: "index.md"
+  - Online help: "help.md"
   - Release notes: "release-notes.md"
   - Privacy policy: "privacy-policy.md"
