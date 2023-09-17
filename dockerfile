@@ -7,6 +7,7 @@ RUN pip install --no-cache-dir \
   mkdocs-bibtex \
   mkdocs-img2fig-plugin \
   mkdocs-mermaid2-plugin \
-  mkdocs-monorepo-plugin
+  mkdocs-monorepo-plugin \
+  mkdocs-redirects
 
 # ENTRYPOINT ["mkdocs"]

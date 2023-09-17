@@ -12,4 +12,6 @@ theme:
 plugins:
   - search
   - monorepo
-  # - awesome-pages
+  - redirects:
+      redirect_maps:
+        'timesheet-history-privacy.md': 'https://app.forutan.com/timesheet-history/privacy-policy/'
