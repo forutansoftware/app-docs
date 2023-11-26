@@ -4,6 +4,10 @@ summary: Full release notes.
 ---
 # Release notes
 
+## Version 1.2.1
+- Upgrade to the latest Android API.
+- **Important!** Backup and export files are moved to the app specific folders and will be removed after uninstall. Keep a copy by using "share" feature.
+
 ## Version 1.1.41
 - Manual backup for free version(one job only)
 
