@@ -1,6 +1,6 @@
 ---
-title: Release notes
-summary: Timesheet history full release notes.
+title: Release notes - Timesheet History
+summary: Full release notes.
 ---
 # Release notes
 
