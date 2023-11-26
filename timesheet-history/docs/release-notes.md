@@ -1,8 +1,6 @@
 ---
-title: My Document
-summary: A brief description of my document.
-date: 2018-07-10
-some_url: https://example.com
+title: Release notes - Timesheet History
+summary: Full release notes.
 ---
 # Release notes
 
